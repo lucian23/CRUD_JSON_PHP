@@ -1,0 +1,19 @@
+{
+    "elevi": [
+        {
+            "nume": "nume1",
+            "prenume": "pr1",
+            "email": "leica.lucian@gmail.com"
+        },
+        {
+            "nume": "nume2",
+            "prenume": "pr2",
+            "email": "leica.lucian@gmail.com"
+        },
+        {
+            "nume": "nume3",
+            "prenume": "pr3",
+            "email": "leica.lucian@gmail.com"
+        }
+    ]
+}
