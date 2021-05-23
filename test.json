@@ -3,17 +3,17 @@
         {
             "nume": "nume1",
             "prenume": "pr1",
-            "email": "leica.lucian@gmail.com"
+            "email": "email1"
         },
         {
             "nume": "nume2",
             "prenume": "pr2",
-            "email": "leica.lucian@gmail.com"
+            "email": "email2"
         },
         {
             "nume": "nume3",
             "prenume": "pr3",
-            "email": "leica.lucian@gmail.com"
+            "email": "email3"
         }
     ]
 }
